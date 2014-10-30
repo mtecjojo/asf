@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#text1
+{
+	color:#999; letter-spacing:3px; margin-left:10px;font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; padding-top:20px;
+}
+#text_title{color:#3f3f3f; letter-spacing:1.1pt;font-weight:bold; font-size:2em;  }
+#text_a{color:#717171;  line-height:1.5; font-size:1.1em;}
+
+#text_font a{ text-decoration:none}
+#text_font{ margin-left:10px; padding-right:30px; color:#999;font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; }
+.navbar {clear:both; height:20px;	padding:0; margin:0;}
+.navbar li{
+	float:left; height:20px;
+	margin-top:25px;
+	list-style:none;
+	padding-left:10px; padding-right:40px;
+
+	}
+.dotline { 
+border-top:0.1em dashed #999}
+.navbar li a{
+	
+	color:#DEB887;
+	font-size:1.2em;
+	}
+.navbar li a:hover{
+	color:#99a0a6;
+
+	}
+.navbar ul{
+	height:20px;
+	
+	}
+	
+#col_text p{ line-height:30px; padding-bottom:20px; font-size:1.3em}	
+	#con_title h1{ font-size:3em; font-weight:bold; letter-spacing:2pt;font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; }
